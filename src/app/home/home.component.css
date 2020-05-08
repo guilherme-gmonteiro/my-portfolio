@@ -1,0 +1,43 @@
+.title-name{
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 46px;
+}
+
+.subtitle{
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 26px;
+}
+
+.subtitle-text{
+    color: #D1D1D1;
+}
+h1, h3{
+    margin-bottom: 0%;
+    margin-top: 1%;
+}
+
+
+.identification{
+    margin-top:10%;
+    margin-left: 5%;
+}
+
+.btn-home{
+    border-radius: 20px;
+    margin: 1%;
+}
+
+.btn-div{
+    margin-top: 5%;
+}
+
+.all-body{
+    background-image: url('../../assets/img/footer-form2.svg');
+    height: 100vh;
+    margin-top: -25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
