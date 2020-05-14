@@ -22,7 +22,7 @@ h1, h3{
 
 
 .identification{
-    margin-top:10%;
+    margin-top:5%;
     margin-left: 5%;
 }
 
@@ -36,10 +36,29 @@ h1, h3{
 }
 
 .all-body{
-    background-image: url('../../assets/img/footer-form2.svg');
+    background-image: url('../../assets/img/footer-form3.svg');
     height: 100vh;
     margin-top: -25%;
     background-size: cover;
     background-repeat: no-repeat;
 
+}
+
+.nav-link{
+    color: #FFFFFF;
+}
+
+.justify-menu{
+    margin-top: 1%;
+    margin-right: 4%;
+}
+
+.icon-social{
+    margin:5px;
+
+}
+
+.icon-social  img{
+    height: 40px;
+    width: 40px;
 }
